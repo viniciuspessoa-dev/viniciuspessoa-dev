@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Vinícius 👋
 
-<!--
-**viniciuspessoa-dev/viniciuspessoa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
+🎓 Estudante de Engenharia de Software  
+💻 Atualmente estudando:
+- SQL
+- Banco de Dados
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+🚀 Buscando oportunidade de estágio em TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Caxias do Sul, RS - Brasil
+
+## 📚 Tecnologias
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- Database Modeling
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/vinicius-pessoa-dev
+- Email: vininibra@gmail.com
